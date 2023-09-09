@@ -1,4 +1,4 @@
-# ID1021_assignment2 ![Maven build status](https://github.com/Lellalu/id1021_assignment3/actions/workflows/maven.yml/badge.svg)
+# ID1021_assignment3 ![Maven build status](https://github.com/Lellalu/id1201_assignment3/actions/workflows/maven.yml/badge.svg)
 
 This is an assignemnt for the course ID1201, Algorithms and Data Structures, at KTH Royal Institute of Techonology. 
 This assignment is about using various searching methods to implement search an element in an array and search for 
